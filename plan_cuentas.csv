@@ -1,0 +1,9 @@
+codigo,nombre,tipo
+1101,Caja y Bancos,Activo
+1201,IVA Crédito Fiscal,Activo
+2101,Proveedores por Pagar,Pasivo
+3101,Capital Social,Patrimonio
+4101,Gastos Generales (Por Clasificar),Pérdida
+4102,Servicios Básicos,Pérdida
+4103,Arriendo y Gastos Comunes,Pérdida
+5101,Ingresos por Ventas,Ganancia
